@@ -13,8 +13,7 @@ Rickey Riddley
 Inputting code that will display a movies' poster, popularity, orginial language, release date, and plot overview.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://exodia21.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Getting familiar with Ajax and how it works when interacts and exchanges data with a web server.
