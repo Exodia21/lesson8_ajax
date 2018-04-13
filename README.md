@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Rickey Riddley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Inputting code that will display a movies' poster, popularity, orginial language, release date, and plot overview.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Getting familiar with Ajax and how it works when interacts and exchanges data with a web server.
+2. Understanding the Data interchange format such as JSON or XML. Also learning that JSON is a subset of JavaScript.
+3. Becoming aware that JSON is a markup language, a document format, or a general serialization format.
